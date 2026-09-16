@@ -1263,6 +1263,13 @@ Time Analysis
 Risk Indicator Analysis
      ↓
 Fraud Type Analysis
+
+
+### Dashboard Preview
+
+![Banking Fraud Dashboard](images/fraud_analysis_dashboard.png)
+
+🔗 **[Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1YE8fwWl10vPgTajP403kDgtzrCy52JI_/view?usp=sharing)**
 ```
 
 ---
